@@ -17,4 +17,7 @@ dependencies: \
   /Users/mac/Development/Flutter\ Apps/prac_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
   /Users/mac/Development/Flutter\ Apps/prac_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
   /Users/mac/Development/Flutter\ Apps/prac_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
-  /Users/mac/Development/Flutter\ Apps/prac_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h
+  /Users/mac/Development/Flutter\ Apps/prac_app/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/mac/Development/Flutter\ Apps/prac_app/build/ios/Debug-iphonesimulator/path_provider_foundation/path_provider_foundation.framework/Modules/module.modulemap \
+  /Users/mac/Development/Flutter\ Apps/prac_app/build/ios/Debug-iphonesimulator/path_provider_foundation/path_provider_foundation.framework/Headers/path_provider_foundation-umbrella.h \
+  /Users/mac/Development/Flutter\ Apps/prac_app/build/ios/Debug-iphonesimulator/path_provider_foundation/path_provider_foundation.framework/Headers/path_provider_foundation-Swift.h
