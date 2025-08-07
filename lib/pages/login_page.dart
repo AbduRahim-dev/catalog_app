@@ -40,7 +40,7 @@ class LoginPage extends StatelessWidget {
                       style: ElevatedButton.styleFrom(
                           foregroundColor: Colors.white,
                           fixedSize: Size(100, 20)),
-                      child: Text("Log In"))
+                      child: Text("Log In Please"))
                 ],
               ),
             )
